@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "name": "Movies",
+            "videos": [
+                {
+                    "description": "loremmasrokeprkopjaeprjop;jeopfjop;sejfpojpsef",
+                    "sources": [
+                        "https://raw.githubusercontent.com/xyz-prjkt/pintar.in_db/main/Hi%2C%20xdroid%202.0%20-o.mp4"
+                    ],
+                    "subtitle": "XYZUAN",
+                    "thumb": "https://raw.githubusercontent.com/xyz-prjkt/xyz_assets/main/xd_main.png",
+                    "title": "xdroidOSS"
+                }
+            ]
+        }
+    ]
+}
